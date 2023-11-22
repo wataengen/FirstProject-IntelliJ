@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         // ハイライトされたテキストにキャレットがある状態で Alt+Enter を押して
         // IntelliJ IDEA が提案する修正方法を表示します。
-        System.out.printf("Hello and welcome!");
+        System.out.print("Hello and welcome!");
 
         // コードを実行するには Shift+F10 を押すか、ガターにある緑の矢印ボタンをクリックします。
         for (int i = 1; i <= 5; i++) {
